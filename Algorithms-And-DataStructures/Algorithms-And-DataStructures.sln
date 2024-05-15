@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms-And-DataStructures", "Algorithms-And-DataStructures\Algorithms-And-DataStructures.csproj", "{9DF985FD-7FAB-44EC-BC7A-8E7E8D1850A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{5D3577CD-86D4-4A9D-9825-EDB338134CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurboCollections", "TurboCollections\TurboCollections.csproj", "{D51B92BA-833B-493D-8C74-8641D4E2A13B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TurboCollectionsCpp", "TurboCollectionsCpp\TurboCollectionsCpp.vcxproj", "{B093F544-B204-4EE1-9042-6FD4BFC6E224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DF985FD-7FAB-44EC-BC7A-8E7E8D1850A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF985FD-7FAB-44EC-BC7A-8E7E8D1850A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF985FD-7FAB-44EC-BC7A-8E7E8D1850A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF985FD-7FAB-44EC-BC7A-8E7E8D1850A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3577CD-86D4-4A9D-9825-EDB338134CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3577CD-86D4-4A9D-9825-EDB338134CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3577CD-86D4-4A9D-9825-EDB338134CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3577CD-86D4-4A9D-9825-EDB338134CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51B92BA-833B-493D-8C74-8641D4E2A13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51B92BA-833B-493D-8C74-8641D4E2A13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51B92BA-833B-493D-8C74-8641D4E2A13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51B92BA-833B-493D-8C74-8641D4E2A13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B093F544-B204-4EE1-9042-6FD4BFC6E224}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B093F544-B204-4EE1-9042-6FD4BFC6E224}.Debug|Any CPU.Build.0 = Debug|Win32
+		{B093F544-B204-4EE1-9042-6FD4BFC6E224}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B093F544-B204-4EE1-9042-6FD4BFC6E224}.Release|Any CPU.Build.0 = Release|Win32
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\bin\Debug\net7.0\Algorithms-And-DataStructures.exe
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\bin\Debug\net7.0\Algorithms-And-DataStructures.deps.json
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\bin\Debug\net7.0\Algorithms-And-DataStructures.runtimeconfig.json
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\bin\Debug\net7.0\Algorithms-And-DataStructures.dll
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\bin\Debug\net7.0\Algorithms-And-DataStructures.pdb
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\obj\Debug\net7.0\Algorithms-And-DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\obj\Debug\net7.0\Algorithms-And-DataStructures.AssemblyInfoInputs.cache
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\obj\Debug\net7.0\Algorithms-And-DataStructures.AssemblyInfo.cs
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\obj\Debug\net7.0\Algorithms-And-DataStructures.csproj.CoreCompileInputs.cache
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\obj\Debug\net7.0\Algorithms-And-DataStructures.sourcelink.json
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\obj\Debug\net7.0\Algorithms-And-DataStructures.dll
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\obj\Debug\net7.0\refint\Algorithms-And-DataStructures.dll
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\obj\Debug\net7.0\Algorithms-And-DataStructures.pdb
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\obj\Debug\net7.0\Algorithms-And-DataStructures.genruntimeconfig.cache
+C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\Algorithms-And-DataStructures\obj\Debug\net7.0\ref\Algorithms-And-DataStructures.dll
