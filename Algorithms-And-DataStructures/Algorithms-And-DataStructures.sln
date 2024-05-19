@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurboCollections.test", "Tu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TurboCollectionsCppLib", "TurboCollectionsCppLib\TurboCollectionsCppLib.vcxproj", "{75095EA0-2DFB-499B-88E9-B7068F4E75EC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestTurboCollectionsCppLib", "TestTurboCollectionsCppLib\TestTurboCollectionsCppLib.vcxproj", "{FFB4EF74-BACC-411B-A014-FEC395903C51}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DEADLINKERERRORRRRRRRRTestTurboCollectionsCppLib", "DEADLINKERERRORRRRRRRRTestTurboCollectionsCppLib\DEADLINKERERRORRRRRRRRTestTurboCollectionsCppLib.vcxproj", "{FFB4EF74-BACC-411B-A014-FEC395903C51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

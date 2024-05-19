@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algorithms-And-DataStructures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d21a386dde0995631538ba90d2600ab6ff98b6cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4311e1c80cb9133de1820705c0ae5dd970d48458")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algorithms-And-DataStructures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algorithms-And-DataStructures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

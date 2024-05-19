@@ -75,6 +75,7 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
@@ -158,10 +159,7 @@
     <ClCompile Include="TurboMaths.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Include\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="TurboMaths.h" />
+    <ClInclude Include="Include\TurboMaths.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
