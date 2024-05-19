@@ -6,9 +6,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurboCollections", "TurboCollections\TurboCollections.csproj", "{D51B92BA-833B-493D-8C74-8641D4E2A13B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TurboCollectionsCpp", "TurboCollectionsCpp\TurboCollectionsCpp.vcxproj", "{B093F544-B204-4EE1-9042-6FD4BFC6E224}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurboCollections.test", "TurboCollections.test\TurboCollections.test.csproj", "{A4197D5B-C6A6-4BA5-A24A-51F8A4A4CAD6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TurboCollectionsCppLib", "TurboCollectionsCppLib\TurboCollectionsCppLib.vcxproj", "{75095EA0-2DFB-499B-88E9-B7068F4E75EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestTurboCollectionsCppLib", "TestTurboCollectionsCppLib\TestTurboCollectionsCppLib.vcxproj", "{FFB4EF74-BACC-411B-A014-FEC395903C51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,13 +30,17 @@ Global
 		{D51B92BA-833B-493D-8C74-8641D4E2A13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D51B92BA-833B-493D-8C74-8641D4E2A13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D51B92BA-833B-493D-8C74-8641D4E2A13B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B093F544-B204-4EE1-9042-6FD4BFC6E224}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{B093F544-B204-4EE1-9042-6FD4BFC6E224}.Debug|Any CPU.Build.0 = Debug|Win32
-		{B093F544-B204-4EE1-9042-6FD4BFC6E224}.Release|Any CPU.ActiveCfg = Release|Win32
-		{B093F544-B204-4EE1-9042-6FD4BFC6E224}.Release|Any CPU.Build.0 = Release|Win32
 		{A4197D5B-C6A6-4BA5-A24A-51F8A4A4CAD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A4197D5B-C6A6-4BA5-A24A-51F8A4A4CAD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4197D5B-C6A6-4BA5-A24A-51F8A4A4CAD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4197D5B-C6A6-4BA5-A24A-51F8A4A4CAD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75095EA0-2DFB-499B-88E9-B7068F4E75EC}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{75095EA0-2DFB-499B-88E9-B7068F4E75EC}.Debug|Any CPU.Build.0 = Debug|Win32
+		{75095EA0-2DFB-499B-88E9-B7068F4E75EC}.Release|Any CPU.ActiveCfg = Release|Win32
+		{75095EA0-2DFB-499B-88E9-B7068F4E75EC}.Release|Any CPU.Build.0 = Release|Win32
+		{FFB4EF74-BACC-411B-A014-FEC395903C51}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{FFB4EF74-BACC-411B-A014-FEC395903C51}.Debug|Any CPU.Build.0 = Debug|Win32
+		{FFB4EF74-BACC-411B-A014-FEC395903C51}.Release|Any CPU.ActiveCfg = Release|Win32
+		{FFB4EF74-BACC-411B-A014-FEC395903C51}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal
