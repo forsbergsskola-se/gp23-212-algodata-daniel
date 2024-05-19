@@ -157,7 +157,7 @@
     <ClCompile Include="ToBeTested.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Include\" />
+    <Folder Include="include\" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
