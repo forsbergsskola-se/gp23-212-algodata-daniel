@@ -1,3 +1,3 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TestTurboCollectionsCppLib.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   TestTurboCollectionsCppLib.cpp
-C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\TurboCollectionsCppLib\include\TurboMaths.h : fatal error LNK1107: invalid or corrupt file: cannot read at 0xE2
+LINK : fatal error LNK1104: cannot open file 'C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\TurboCollectionsCppLib\Debug\\.obj'
