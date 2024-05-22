@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurboCollections.test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b71167231820e2655fd7a5bf494ec0db56ff8295")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+658367941eb55390a2a22da29ba6ab337166057f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurboCollections.test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurboCollections.test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

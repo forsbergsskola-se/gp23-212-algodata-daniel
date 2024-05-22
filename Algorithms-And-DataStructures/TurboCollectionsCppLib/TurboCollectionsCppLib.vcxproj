@@ -168,6 +168,12 @@
   <ItemGroup>
     <ClInclude Include="include\TurboMaths.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DEADLINKERERRORRRRRRRRTestTurboCollectionsCppLib\DEADLINKERERRORRRRRRRRTestTurboCollectionsCppLib.vcxproj">
+      <Project>{ffb4ef74-bacc-411b-a014-fec395903c51}</Project>
+      <Name>DEADLINKERERRORRRRRRRRTestTurboCollectionsCppLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

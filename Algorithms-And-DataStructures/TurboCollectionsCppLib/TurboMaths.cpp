@@ -1,4 +1,4 @@
-﻿#include "C:\Projects\gp23-212-algodata-daniel\Algorithms-And-DataStructures\TurboCollectionsCppLib\include\TurboMaths.h"
+﻿#include "TurboMaths.h"
  namespace TurboCollections
  {
      using namespace std;
